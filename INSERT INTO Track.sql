@@ -4,36 +4,60 @@ VALUES ('Bye-Ya', 418, 1);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ("Will o' the Wisp", 205, 1);
+VALUES ("Money Jungle", 327, 2);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('A Night in Tunisia', 276, 1);
+VALUES ('Fluerette Africaine', 213, 2);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ("Wouldn't It Be Loverly", 476, 1);
+VALUES ("Very Special", 263, 2);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ("Letters from Mike O'Brien", 343, 1);
+VALUES ("Warm Valley", 211, 2);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Con Alma', 408, 1);
+VALUES ('Wig Wise', 197, 2);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('I Wished On The Moon', 470, 1);
+VALUES ('Caravan', 251, 2);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('The Dove', 278, 1);
+VALUES ('Solitude', 331, 2);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('A Long Road Home', 432, 1);
+VALUES ('Switch Blade', 321, 2);
 
+INSERT INTO Track
+(tracktitle, tracklength, cd_id)
+VALUES ('A Little Max (Parfait)', 177, 2);
 
+INSERT INTO Track
+(tracktitle, tracklength, cd_id)
+VALUES ('REM Blues', 255, 2);
 
+INSERT INTO Track
+(tracktitle, tracklength, cd_id)
+VALUES ('Backwood Country Boy Blues', 390, 2);
 
+INSERT INTO Track
+(tracktitle, tracklength, cd_id)
+VALUES ('Solitude - Alternate Take', 282, 2);
+
+INSERT INTO Track
+(tracktitle, tracklength, cd_id)
+VALUES ('Switch Blade - Alternate Take', 311, 2);
+
+INSERT INTO Track
+(tracktitle, tracklength, cd_id)
+VALUES ('A Little Max (Parfait) - Alternate Take', 176, 2);
+
+INSERT INTO Track
+(tracktitle, tracklength, cd_id)
+VALUES ('REM Blues - Alternate Take', 344, 2);
