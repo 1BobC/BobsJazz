@@ -1,63 +1,45 @@
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Bye-Ya', 418, 1);
+VALUES ('Israel', 371, 4);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ("Money Jungle", 327, 2);
+VALUES ('Haunted Heart', 207, 4);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Fluerette Africaine', 213, 2);
+VALUES ('Beautiful Love', 306, 4);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ("Very Special", 263, 2);
+VALUES ('Elsa', 313, 4);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ("Warm Valley", 211, 2);
+VALUES ('Nardis', 351, 4);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Wig Wise', 197, 2);
+VALUES ('How Deep Is The Ocean', 214, 4);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Caravan', 251, 2);
+VALUES ('I Wish I Knew', 280, 4);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Solitude', 331, 2);
+VALUES ('Sweet And Lovely', 353, 4);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Switch Blade', 321, 2);
+VALUES ('The Boy Next Door', 307, 4);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('A Little Max (Parfait)', 177, 2);
+VALUES ('How Deep Is The Ocean2', 228, 4);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('REM Blues', 255, 2);
+VALUES ('I Wish I Knew2', 308, 4);
 
-INSERT INTO Track
-(tracktitle, tracklength, cd_id)
-VALUES ('Backwood Country Boy Blues', 390, 2);
 
-INSERT INTO Track
-(tracktitle, tracklength, cd_id)
-VALUES ('Solitude - Alternate Take', 282, 2);
-
-INSERT INTO Track
-(tracktitle, tracklength, cd_id)
-VALUES ('Switch Blade - Alternate Take', 311, 2);
-
-INSERT INTO Track
-(tracktitle, tracklength, cd_id)
-VALUES ('A Little Max (Parfait) - Alternate Take', 176, 2);
-
-INSERT INTO Track
-(tracktitle, tracklength, cd_id)
-VALUES ('REM Blues - Alternate Take', 344, 2);
