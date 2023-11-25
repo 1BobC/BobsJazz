@@ -1,45 +1,47 @@
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Israel', 371, 4);
+VALUES ('Haiku', 98, 7);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Haunted Heart', 207, 4);
+VALUES ('Walking With Thelonious', 352, 7);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Beautiful Love', 306, 4);
+VALUES ('The Crow and The Fox', 263, 7);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Elsa', 313, 4);
+VALUES ('False Valse', 266, 7);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Nardis', 351, 4);
+VALUES ('Indecis', 336, 7);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('How Deep Is The Ocean', 214, 4);
+VALUES ('Irkutsk', 379, 7);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('I Wish I Knew', 280, 4);
+VALUES ('Tiznit', 353, 7);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Sweet And Lovely', 353, 4);
+VALUES ('Rengaine', 570, 7);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('The Boy Next Door', 307, 4);
+VALUES ('Blue', 310, 7);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('How Deep Is The Ocean2', 228, 4);
+VALUES ('Ornements', 456, 7);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('I Wish I Knew2', 308, 4);
+VALUES ('Irk', 215, 7);
 
-
+INSERT INTO Track
+(tracktitle, tracklength, cd_id)
+VALUES ('Round About Midnight', 336, 7);
