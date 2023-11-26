@@ -1,47 +1,36 @@
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Haiku', 98, 7);
+VALUES ('Blame It On My Youth', 377, 9);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Walking With Thelonious', 352, 7);
+VALUES ("I Didn't Know What Time It Was", 390, 9);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('The Crow and The Fox', 263, 7);
+VALUES ("Ron's Place", 389, 9);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('False Valse', 266, 7);
+VALUES ('Blackbird', 300, 9);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Indecis', 336, 7);
+VALUES ('Lament For Linus', 278, 9);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Irkutsk', 379, 7);
+VALUES ("Mignon's Song", 394, 9);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Tiznit', 353, 7);
+VALUES ('I Fall In Love Too Easily', 436, 9);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Rengaine', 570, 7);
+VALUES ('Lucid', 343, 9;
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Blue', 310, 7);
+VALUES ('Nobody Else But Me', 456, 9);
 
-INSERT INTO Track
-(tracktitle, tracklength, cd_id)
-VALUES ('Ornements', 456, 7);
-
-INSERT INTO Track
-(tracktitle, tracklength, cd_id)
-VALUES ('Irk', 215, 7);
-
-INSERT INTO Track
-(tracktitle, tracklength, cd_id)
-VALUES ('Round About Midnight', 336, 7);

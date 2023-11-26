@@ -1,3 +1,3 @@
 INSERT INTO Trio
 (trioname, pianist, bassist, drummer, nationality)
-VALUES ('Paul Lay Trio', 'Paul Lay', 'Simon Tailleu', 'Elie Duris', 'France');
+VALUES ('Brad Mehldau Trio', 'Brad Mehldau','Larry Grenadier', 'Jorge Rossy', 'USA');
