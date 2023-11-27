@@ -1,36 +1,56 @@
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Blame It On My Youth', 377, 9);
+VALUES ('Prelude No 1 in C Major', 324, 11);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ("I Didn't Know What Time It Was", 390, 9);
+VALUES ('Air on the G String', 216, 11);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ("Ron's Place", 389, 9);
+VALUES ('Prelude No 2 in C Minor', 274, 11);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Blackbird', 300, 9);
+VALUES ("Chorale No 1 'Sleepers Awake'", 257, 11);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Lament For Linus', 278, 9);
+VALUES ('Concerto in D Major, Allegro', 388, 11);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ("Mignon's Song", 394, 9);
+VALUES ('Concerto in D Major, Andante', 342, 11);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('I Fall In Love Too Easily', 436, 9);
+VALUES ('Concerto in D Major, Allegro', 276, 11);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Lucid', 343, 9;
+VALUES ('Italian Concerto in F Major, Allegro', 296, 11);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Nobody Else But Me', 456, 9);
+VALUES ('Italian Concerto in F Major, Adagio', 294, 11);
+
+INSERT INTO Track
+(tracktitle, tracklength, cd_id)
+VALUES ('Italian Concerto in F Major, Presto', 180, 11);
+
+INSERT INTO Track
+(tracktitle, tracklength, cd_id)
+VALUES ('Toccata and Fugue in D Minor', 562, 11);
+
+INSERT INTO Track
+(tracktitle, tracklength, cd_id)
+VALUES ('Concerto No 1 in C Minor, Allegro', 332, 11);
+
+INSERT INTO Track
+(tracktitle, tracklength, cd_id)
+VALUES ('Concerto No 1 in C Minor, Adagio', 334, 11);
+
+INSERT INTO Track
+(tracktitle, tracklength, cd_id)
+VALUES ('Concerto No 1 in C Minor, Allegro', 330, 11);
 

@@ -6,3 +6,4 @@ Will contain DBs of my Jazz Trios, Estonian Jazz bi-annual jazz compilations and
 "Making progress with populating d b and correcting entry errors"
 "Populated tables to 7"
 "Populated tables to 9"
+"Need to correct C D 2 - wrang number"

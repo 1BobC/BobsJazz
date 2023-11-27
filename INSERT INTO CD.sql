@@ -1,3 +1,3 @@
 INSERT INTO CD
 (cdtitle, cdplayingtime, cdyear, trio_id)
-VALUES ('The Art Of The Trio Vol 1', 56, 1996, 9);
+VALUES ('Toccata Play Bach CD2', 73, 2000, 12);
