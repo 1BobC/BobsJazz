@@ -7,3 +7,4 @@ Will contain DBs of my Jazz Trios, Estonian Jazz bi-annual jazz compilations and
 "Populated tables to 7"
 "Populated tables to 9"
 "Need to correct C D 2 - wrang number"
+"All ok and on final 2 - 3 CDs, Have also continued watching video from 07:20 ish O O P and P H P" 

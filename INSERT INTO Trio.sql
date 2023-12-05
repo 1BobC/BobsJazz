@@ -1,3 +1,3 @@
 INSERT INTO Trio
 (trioname, pianist, bassist, drummer, nationality)
-VALUES ('Jacques Loussier Trio', 'Jacques Loussier','Pierr Michelot', 'Christien Garros', 'France');
+VALUES ('Marcin Wasilewski Trio', 'Marcin Wasilewski','Slawomir Kurkiewicz', 'Michel Miskiewicz', 'Poland');
