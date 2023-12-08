@@ -1,3 +1,3 @@
 INSERT INTO Trio
 (trioname, pianist, bassist, drummer, nationality)
-VALUES ('Marcin Wasilewski Trio', 'Marcin Wasilewski','Slawomir Kurkiewicz', 'Michel Miskiewicz', 'Poland');
+VALUES ('Thomas Clausen Trio', 'Thomas Clausen','Thomas Fonnesbaek', 'Karsten Bagge', 'Denmark');

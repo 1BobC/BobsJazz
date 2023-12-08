@@ -1,40 +1,43 @@
-INSERT INTO Track
-(tracktitle, tracklength, cd_id)
-VALUES ('The First Touch', 253, 21);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Vignette', 485, 21);
+VALUES ('How Deep Is The Ocean', 326, 23);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Cinema Paradiso', 510, 21);
+VALUES ("Walkin'", 322, 23);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Diamonds And Pearls', 345, 21);
+VALUES ('Nature Boy', 300, 23);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Balladyna', 346, 21);
+VALUES ('Bloodcount', 266, 23);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('King Korn', 405, 21);
+VALUES ('It Could Happen To You', 338, 23);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('The Cat', 598, 21);
+VALUES ('Edelweiss', 306, 23);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('January', 528, 21);
+VALUES ('Invitation', 343, 23);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('The Young And Cinema', 548, 21);
+VALUES ('Vem Kan Segla Förutan Vind', 308, 23);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('New York 2007', 166, 21);
+VALUES ('You Must Believe In Spring', 368, 23);
+
+INSERT INTO Track
+(tracktitle, tracklength, cd_id)
+VALUES ('You And The NIght And The Music', 362, 23);
+
+
 
