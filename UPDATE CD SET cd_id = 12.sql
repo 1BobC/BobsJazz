@@ -1,3 +1,7 @@
-UPDATE CD SET cdyear = 2008
-WHERE cd_id = 21;
+UPDATE CD SET trio_id = 3
+WHERE cd_id = 4;
+
+UPDATE CD SET trio_id = 5
+WHERE cd_id = 6;
+
 
