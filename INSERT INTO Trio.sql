@@ -1,3 +1,3 @@
 INSERT INTO Trio
 (trioname, pianist, bassist, drummer, nationality)
-VALUES ('Thomas Clausen Trio', 'Thomas Clausen','Thomas Fonnesbaek', 'Karsten Bagge', 'Denmark');
+VALUES ('Charlie Haden Duo (2)', 'Pat Methany', 'Charlie Haden', 'n/a', 'USA');

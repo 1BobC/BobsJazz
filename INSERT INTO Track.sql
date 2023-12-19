@@ -1,43 +1,58 @@
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('How Deep Is The Ocean', 326, 23);
+VALUES ('Waltz For Ruth', 268, 25);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ("Walkin'", 322, 23);
+VALUES ('Old Spanish Love Song', 340, 25);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Nature Boy', 300, 23);
+VALUES ('Message For A Friend', 373, 25);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Bloodcount', 266, 23);
+VALUES ('Two For The Road', 316, 25);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('It Could Happen To You', 338, 23);
+VALUES ('First Song (For Ruth)', 397, 25);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Edelweiss', 306, 23);
+VALUES ('The Moon Is A Harsh Mistress', 245, 25);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Invitation', 343, 23);
+VALUES ('The Precious Jewel', 227, 25);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Vem Kan Segla Förutan Vind', 308, 23);
+VALUES ("He's Gone Away", 258, 25);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('You Must Believe In Spring', 368, 23);
+VALUES ('The Moon Song', 416, 25);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('You And The NIght And The Music', 362, 23);
+VALUES ('Tears Of Rain', 330, 25);
+
+INSERT INTO Track
+(tracktitle, tracklength, cd_id)
+VALUES ('Cinema Paradiso (Love Theme)', 215, 25);
+
+INSERT INTO Track
+(tracktitle, tracklength, cd_id)
+VALUES ('Cinema Paradiso (Main Theme)', 264, 25);
+
+INSERT INTO Track
+(tracktitle, tracklength, cd_id)
+VALUES ('Spiritual', 502, 25);
+
+
+
 
 
 

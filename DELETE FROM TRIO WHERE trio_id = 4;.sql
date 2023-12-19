@@ -1,3 +1,3 @@
-DELETE FROM TRIO WHERE trio_id = 4;
+DELETE FROM Trio WHERE trio_id = 4;
 
-DELETE FROM TRIO WHERE trio_id = 6;
+DELETE FROM Trio WHERE trio_id = 6;
