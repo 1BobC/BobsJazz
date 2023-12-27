@@ -1,58 +1,40 @@
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Waltz For Ruth', 268, 25);
+VALUES ("The Mariner's Cross", 194, 26);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Old Spanish Love Song', 340, 25);
+VALUES ('Ice Free', 188, 26);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Message For A Friend', 373, 25);
+VALUES ('The Lighthouse On The Horizon', 439, 26);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Two For The Road', 316, 25);
+VALUES ('Hunters Point Dry Dock', 271, 26);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('First Song (For Ruth)', 397, 25);
+VALUES ('Arriving At Ellis Island', 229, 26);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('The Moon Is A Harsh Mistress', 245, 25);
+VALUES ('Dancing Dhow Deckhands', 355, 26);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('The Precious Jewel', 227, 25);
+VALUES ('Like A Ship In The Harbour', 250, 26);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ("He's Gone Away", 258, 25);
+VALUES ('The White Lion Docks In Point Comfort', 243, 26);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('The Moon Song', 416, 25);
+VALUES ('Port Of Call', 233, 26);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Tears Of Rain', 330, 25);
-
-INSERT INTO Track
-(tracktitle, tracklength, cd_id)
-VALUES ('Cinema Paradiso (Love Theme)', 215, 25);
-
-INSERT INTO Track
-(tracktitle, tracklength, cd_id)
-VALUES ('Cinema Paradiso (Main Theme)', 264, 25);
-
-INSERT INTO Track
-(tracktitle, tracklength, cd_id)
-VALUES ('Spiritual', 502, 25);
-
-
-
-
-
-
+VALUES ('The Beaches Of Lesbos', 310, 26);

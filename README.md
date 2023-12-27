@@ -11,3 +11,4 @@ Will contain DBs of my Jazz Trios, Estonian Jazz bi-annual jazz compilations and
 "E ntered all current cds! Will try some searches later also watch some more of 07.20 on"
 "Tidied up trio table Bill and Red had duplicate en tries"
 "Added two new cds Charlie Haden"
+"Added Daniel Herskedal"
