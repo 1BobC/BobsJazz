@@ -12,3 +12,4 @@ Will contain DBs of my Jazz Trios, Estonian Jazz bi-annual jazz compilations and
 "Tidied up trio table Bill and Red had duplicate en tries"
 "Added two new cds Charlie Haden"
 "Added Daniel Herskedal"
+"Added Jasmine"

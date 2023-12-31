@@ -1,40 +1,37 @@
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ("The Mariner's Cross", 194, 26);
+VALUES ('For All We Know', 595, 27);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Ice Free', 188, 26);
+VALUES ('Where Can I Go Without You', 560, 27);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('The Lighthouse On The Horizon', 439, 26);
+VALUES ('No Moon At All', 280, 27);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Hunters Point Dry Dock', 271, 26);
+VALUES ("One Day I'll Fly Away", 255, 27);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Arriving At Ellis Island', 229, 26);
+VALUES ('Intro', 45, 27);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Dancing Dhow Deckhands', 355, 26);
+VALUES ("I'm Gonna Laugh You Right Out Of My Life", 684, 27);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Like A Ship In The Harbour', 250, 26);
+VALUES ('Body And Soul', 669, 27);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('The White Lion Docks In Point Comfort', 243, 26);
+VALUES ('Goodbye', 481, 27);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Port Of Call', 233, 26);
+VALUES ("Don't Ever Leave Me", 371, 27);
 
-INSERT INTO Track
-(tracktitle, tracklength, cd_id)
-VALUES ('The Beaches Of Lesbos', 310, 26);
