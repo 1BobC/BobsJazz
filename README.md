@@ -13,3 +13,4 @@ Will contain DBs of my Jazz Trios, Estonian Jazz bi-annual jazz compilations and
 "Added two new cds Charlie Haden"
 "Added Daniel Herskedal"
 "Added Jasmine"
+"Added G Shearing and Piotr Lemanczyk"
