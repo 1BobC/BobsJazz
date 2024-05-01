@@ -1,35 +1,41 @@
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('For M.S.', 449, 31);
+VALUES ('Nightwatch', 425, 32);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Kartuzy 2020', 340, 31);
+VALUES ('Clear Blue Lou', 539, 32);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Forest Morning', 333, 31);
+VALUES ('Last Trane', 471, 32);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Mr. Alousious', 345, 31);
+VALUES ('Espana', 472, 32);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Munkish Mood', 383, 31);
+VALUES ('Sputnik', 397, 32);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Walz Ju Fee', 474, 31);
+VALUES ('Little Bird Song', 428, 32);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('The Ballad We Are', 382, 31);
+VALUES ('Toshiko', 465, 32);
 
 INSERT INTO Track
 (tracktitle, tracklength, cd_id)
-VALUES ('Ministryńczyni', 315, 31);
+VALUES ('Blues R Us', 625, 32);
+
+INSERT INTO Track
+(tracktitle, tracklength, cd_id)
+VALUES ('T 4 2 (Tea For Two)', 256, 32);
+
+
 
 
 
